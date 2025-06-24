@@ -1,0 +1,21 @@
+[
+    {
+      "name": "John Smith",
+      "email": "john.smith@example.com",
+      "phone": "+1-555-1234",
+      "company": "Alpha Corp"
+    },
+    {
+      "name": "Lisa Johnson",
+      "email": "lisa.johnson@example.com",
+      "phone": "+1-555-5678",
+      "company": "Beta Industries"
+    },
+    {
+      "name": "",
+      "email": "incomplete@example.com",
+      "phone": "",
+      "company": "Gamma Ltd."
+    }
+  ]
+  
